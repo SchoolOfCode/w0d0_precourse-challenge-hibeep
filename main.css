@@ -1,0 +1,14 @@
+#title {
+  font-size: 50px;
+    background-color: seashell;
+    text-align: center;
+    color: orangered;
+  }
+#main { padding: 40px; background-color: blue;}
+#img-div { width: 1600px;}
+#image {width: 70%; margin: auto; display: block; padding-top: 40px;}
+#img-caption {
+  font-size: 30px; text-align: center; color: white; font-style: italic;
+}
+#tribute-info {font-size: 30px; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ; background-color: palegoldenrod;}
+#tribute { font-size: 30px; font-style: oblique; font-weight: bold; background-color: palegoldenrod;}
